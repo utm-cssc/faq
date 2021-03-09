@@ -1,3 +1,4 @@
+My potential program has two codes: one with an X and one without. Which one do I pick? | You want to pick the one WITHOUT the X. 
 What do I do if I don't make the CSC148/MAT102 grade requirement but I have the CGPA? | You can apply for a Second Attempt Credit if you passed those courses or you can retake them normally and reapply again at a later application round.
 When are the maximum cut-offs for POSt going to be posted? | As of right now, we are not sure when the maximums will be set due to multiple factors (e.g. COVID, new administration, etc.) The official cut-offs themselves are projected to be set in later May 2020. (Nov. 2020)
 Will there be a huge increase in POSt requirements this year? | The department is unsure since there seems to be a decrease in student enrollment this year coupled with other factors. Though, they suspect it won't go up by a lot.
