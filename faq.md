@@ -4,7 +4,7 @@ Are classes inperson this winter? | Yes, most if not all classes will be in pers
 My potential program has two codes: one with an X and one without. Which one do I pick? | You want to pick the one WITHOUT the X. 
 What do I do if I don't make the CSC148/MAT102 grade requirement but I have the CGPA? | You can apply for a Second Attempt Credit if you passed those courses or you can retake them normally and reapply again at a later application round.
 How many first year courses are we allowed to take? | Prior to September 2020, 6.0 credits for 100-level courses would count towards your degree. But currently, you can check how many 100-level courses count towards your degree and other specifications through the Degree Explorer tool accessible through ACORN under "Academics" > "Planning Tools".
-How do I become a TA? | Apply through the TA Application Portal (https://utapcsc.utm.utoronto.ca/utap)! Winter 2022 Applications generally open late-October or early-November and close late-November or early-December.
+How do I become a TA? | Apply through the TA Application Portal! Winter 2022 Applications generally open late-October or early-November and close late-November or early-December.
 Can I do PEY if I’m a 4th year? | Yes, you can. The requirement is that you must come back for one sem/one year of full time studies.
 Will I be at a disadvantage if I do PEY as a CS minor? | No, lots of CS minors get PEYs! It’s all about strengthening your portfolio by doing side projects, hackathons, etc.
 Can you split up your PEY? | No, it must be 12-16 months at a single workplace.
